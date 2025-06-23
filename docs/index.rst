@@ -1,4 +1,4 @@
-How to Log In to Your Dashlane Account Safely     
+How to Sign In to Your Dashlane Account Safely     
 ============================================
 
 .. toctree::
